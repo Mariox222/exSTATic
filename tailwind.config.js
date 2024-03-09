@@ -6,16 +6,16 @@ module.exports = {
     theme: {
       extend: {
         colors: {
-          backdrop: colors.slate[800],
-          block: colors.slate[900],
+          backdrop: "#f0eedf",
+          block: "#f0eedf",
           title: colors.indigo[400],
-          text: colors.slate[400],
-          "button-text": colors.indigo[500],
-          icon: colors.white,
-          menu: colors.slate[700],
-          "menu-text": colors.gray[300],
-          button: colors.indigo[400],
-          hover: colors.indigo[700]
+          text: colors.black,
+          "button-text": colors.black,
+          icon: colors.black,
+          menu: "#f0eedf",
+          "menu-text": colors.black,
+          button: "#f0eedf",
+          hover: "#f0eedf"
         }
       }
     },
